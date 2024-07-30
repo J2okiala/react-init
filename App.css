@@ -142,20 +142,3 @@ body {
   min-height: 100vh;
 }
 
-.menu-rep {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
-    height: 190px;
-    width: 100%;
-
-}
-
-.left-menu {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;    
-    height: 100%;
-}
