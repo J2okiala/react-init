@@ -1,4 +1,4 @@
-import "./Logo.css";
+import "./Style.css"
 
 function Logo () {
     return (
@@ -6,4 +6,4 @@ function Logo () {
     )
 }
 
-export default Logo;
+export default Logo
